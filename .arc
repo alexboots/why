@@ -5,7 +5,6 @@ tacos-65z
 
 @http
 post /graphql
-get /butts
 
 @tables
 data
